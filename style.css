@@ -10,22 +10,49 @@ h1 {
 
 
 
+
+
 .container {
     width: 80%;
     height: 70%;
     text-align: center;
-    marg
     
+    
+
+}
+p{color: black;
+
+}
+div{color: white;
+
+}
+
+span{color: white;
+
+}
+
+h3{display: inline-block;
+
+}
+
+.email{ color: lightskyblue;
 
 }
 
 .box {
     float: left;
     background-color: #0f0e17;
-    border: solid;
-    width: 300px;
+    border: 2px solid;
+    width: calc(30% - 20px);
     height: 100px;
     margin-top: 70px;
+    margin-left: 50px;
     
+    
+
+}
+.foto{float: left;
+      width: 100px;
+      height: 100px;
 
 }
